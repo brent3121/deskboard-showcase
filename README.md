@@ -3,6 +3,8 @@
 
 **Status:** In progress · v0.5.0
 
+![Deskboard preview](https://brentbuilds.pages.dev/img/deskboard.png)
+
 > 🔒 **Source code is private.** This repo is a showcase of the product, its features and its architecture.
 
 <!-- screenshot here: board on second monitor -->
